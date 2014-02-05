@@ -15,6 +15,5 @@
   },
   "devDependencies": {
     "jquery.autocomplete": "devbridge/jQuery-Autocomplete#1.2.7"
-  },
-  "private": true
+  }
 }
